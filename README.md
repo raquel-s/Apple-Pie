@@ -20,7 +20,7 @@ The following **additional** features are implemented:
 
 * [ ] Added a scoring feature that awards points for each correct guess and additional points for each successful word completion.
 
-* [] Allow multiple players to play, switching turns after each incorrect guess.
+* [ ] Allow multiple players to play, switching turns after each incorrect guess.
 
 * [ ] Allow the player to guess the full word using the keyboard instead of guessing one letter at a time using the interface buttons.
 
